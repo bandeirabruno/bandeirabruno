@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bandeirabruno&layout=compact)](https://github.com/bandeirabruno/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bandeirabruno)](https://github.com/andeirabruno/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bandeirabruno)](https://github.com/bandeirabruno/github-readme-stats)
