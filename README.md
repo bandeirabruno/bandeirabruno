@@ -16,8 +16,11 @@ Here are some ideas to get you started:
 Name: Bruno Bandeira <br>
 Age: 30 <br>
 Living in: Rio de Janeiro, Brazil <br>
-Stack: C# - .Net - Bootstrap - SQL - AWS - Azzure <br>
 University: FAETERJ. <br>
+
+<hr>
+
+<img alt="C#" https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bandeirabruno&layout=compact&theme=tokyonight)](https://github.com/bandeirabruno/github-readme-stats)
 
