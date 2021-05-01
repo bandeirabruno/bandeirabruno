@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Name: Bruno Bandeira
-Age: 30
-Living in: Rio de Janeiro, Brazil
-Stack: C# - .Net - Bootstrap - SQL - AWS - Azzure
-University: FAETERJ.
+Name: Bruno Bandeira <br>
+Age: 30 <br>
+Living in: Rio de Janeiro, Brazil <br>
+Stack: C# - .Net - Bootstrap - SQL - AWS - Azzure <br>
+University: FAETERJ. <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bandeirabruno&layout=compact&theme=tokyonight)](https://github.com/bandeirabruno/github-readme-stats)
 
