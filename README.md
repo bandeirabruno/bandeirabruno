@@ -20,7 +20,7 @@ University: FAETERJ. <br>
 
 <hr>
 
-<img alt="C#" https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white />
+<img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bandeirabruno&layout=compact&theme=tokyonight)](https://github.com/bandeirabruno/github-readme-stats)
 
