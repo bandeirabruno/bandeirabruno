@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 Name: Bruno Bandeira <br>
 Age: 30 <br>
 Living in: Rio de Janeiro, Brazil <br>
-University: FAETERJ. <br>
 
 <div>
 <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=plastic&logo=c-sharp&logoColor=white"/>
@@ -27,5 +26,4 @@ University: FAETERJ. <br>
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bandeirabruno&layout=compact&theme=tokyonight)](https://github.com/bandeirabruno/github-readme-stats)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bandeirabruno&show_icons=true&theme=tokyonight)
